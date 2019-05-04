@@ -48,9 +48,9 @@
 /* Mobile Layout: 320px. */
 
 @media only screen and (max-width: 767px) {
-    body {
+    /* body {
         font-size: 12px;
-    }
+    } */
     .page-title {
         margin-bottom: 30px;
     }
